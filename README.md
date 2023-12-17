@@ -1,3 +1,4 @@
 # latihan-branch
 
-This is a preview from development branch
+# Ini adalah repository untuk latihan membuat branch baru di GitHub
+**Github itu asyik lho.**
